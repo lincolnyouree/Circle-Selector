@@ -1,8 +1,6 @@
-# __USA CIRCLE SELECTOR__
+# __U S A   C I R C L E   S E L E C T O R__
 
-## _Description_:
-
-* USA Circle Selector is a simple, dynamic, and patriotic circle selector built in React and deployed to GitHub Pages. 
+* A simple, dynamic, and patriotic circle selector built in React and deployed to GitHub Pages. 
 
 * Click [here](https://lincolnyouree.github.io/USA-Circle-Selector/) to select a circle for your country!
 

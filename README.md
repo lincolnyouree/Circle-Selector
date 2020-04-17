@@ -1,4 +1,4 @@
-# __U S A   C I R C L E   S E L E C T O R__
+# __USA CIRCLE SELECTOR__
 
 * A simple, dynamic, and patriotic circle selector built in React and deployed to GitHub Pages. 
 

@@ -6,4 +6,4 @@
 
 ## Screenshot: 
 
-![Wireframe](https://i.imgur.com/WflCIi0.jpg)
+![Wireframe](https://i.imgur.com/fkjWulR.png)
